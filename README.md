@@ -98,8 +98,9 @@ The structural logic of AZRAS is not dependent on a single construction method. 
 
 ## Documents & Resources
 
-**Technical White Paper**
-[RC Upright Method White Paper v1.pdf](docs/RC%20Upright%20Method%20White%20Paper%20v1_en.pdf)
+**Technical White Papers**
+[AZRAS White Paper v2.0](docs/AZRAS_White_Paper_v2_en.pdf) — Latest comprehensive white paper covering the full AZRAS system
+[RC Upright Method White Paper v1.0](docs/RC%20Upright%20Method%20White%20Paper%20v1_en.pdf) — Original white paper (2005) documenting the RC Upright Method
 
 **Investor Materials**
 [AZRAS Vision](en/02_Investor%20Deck/azras-vision-en.md) — The 4D Architecture concept and circular ecosystem vision
@@ -270,7 +271,8 @@ AZRASの構造的論理は、特定の工法に依存するものではありま
 ## 資料・ドキュメント
 
 **技術白書**
-[RC Upright Method White Paper v1.pdf](docs/RC%20Upright%20Method%20White%20Paper%20v1_en.pdf)
+[AZRAS White Paper v2.0](docs/AZRAS_White_Paper_v2_en.pdf) — AZRASシステム全体を網羅した最新白書（英語）
+[RC Upright Method White Paper v1.0](docs/RC%20Upright%20Method%20White%20Paper%20v1_en.pdf) — RCアップライト工法を記録したオリジナル白書（2005年・英語）
 
 **投資家向け資料**
 [AZRASビジョン（英語）](en/02_Investor%20Deck/azras-vision-en.md) — 4次元建築コンセプトと循環エコシステムビジョン
