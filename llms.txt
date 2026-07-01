@@ -20,12 +20,33 @@
 - **Developer**: Makito Akatsu / ACE Comprehensive Consulting Co., Ltd.
 - **Development year**: 2005
 - **Buildings completed**: 3 (Japan, 2005)
+- **Patent**: JP 2005-240511 (RC Upright Method)
 
-### What AZRAS is
+## Vision — 4D Architecture
 
-AZRAS is a hybrid architectural system that combines a minimal, permanently durable Reinforced Concrete (RC) structural core with independently replaceable timber infill units. The RC core — mat foundation, one-directional load-bearing exterior walls, and party walls — is designed for 100+ year durability. The timber infill within each unit can be fully replaced independently without displacing neighbors or affecting the structural frame.
+AZRAS gives architecture a fourth dimension: time. A building with a permanent Skeleton can evolve — energy-efficiently — for 200 years or more, responding to every shift across five phases:
 
-This separation of structure and infill eliminates the need for full building reconstruction over the asset's lifetime.
+1. At Completion — energy-efficient, high-performance, long-life from Day 1
+2. Daily Operation — AI and building systems optimize in real time
+3. Disaster Recovery — restoration at −80% cost, −85% time
+4. Renewal — preserve the Skeleton; replace Infill and Outfill across generations
+5. Social Adaptation — flexible response to changes in use, technology, and regulation
+
+Beyond the single building, AZRAS points toward a circular building ecosystem: factory-produced components are installed, removed, reconditioned, and redeployed to other AZRAS buildings — a near-zero-waste circular flow of building materials.
+
+## Three-Layer System
+
+AZRAS separates every building into three independent layers:
+
+- **Skeleton** (RC structural core) — permanent structural foundation, 200+ year durability
+- **Infill** (interior & systems) — independently replaceable; adapts to changing needs
+- **Outfill** (exterior envelope) — independently replaceable; adapts to environmental and aesthetic change
+
+"Outfill" is a term coined by Makito Akatsu to describe this third layer, distinct from the conventional two-layer Skeleton/Infill framework.
+
+## What AZRAS is
+
+AZRAS is a hybrid architectural system that combines a minimal, permanently durable RC structural core with independently replaceable Infill units. The RC Skeleton — mat foundation, one-directional load-bearing exterior walls, and party walls — is designed for 100+ year durability. Infill and Outfill can be replaced independently without displacing neighbors or affecting the structural frame.
 
 ### Key distinctions from conventional Skeleton-Infill (SI) systems
 
@@ -36,8 +57,7 @@ This separation of structure and infill eliminates the need for full building re
 
 ### Verified performance data (2005)
 
-- Seismic analysis method: Dynamic nonlinear seismic response analysis
-- Seismic analysis date: June 22, 2005 (external specialized institution)
+- Seismic analysis: Dynamic nonlinear seismic response analysis, June 22, 2005 (external institution)
 - On-site vibration test: May 18, 2005 (Vibration Instruments Co., Ltd. / VIIC)
 - Initial construction cost: Equivalent to light-gauge steel framing
 - Achieved rent: ¥110,000/unit (approx. 83% above comparable units in same area)
@@ -46,25 +66,96 @@ This separation of structure and infill eliminates the need for full building re
 ### Key features
 
 1. **Low initial cost** — RC durability at light-gauge steel construction cost (2005 verified)
-2. **Unit-by-unit renewal** — timber infill replaced independently per unit; renovation from 2nd cycle ≈ 50% of new construction cost
-3. **Disaster resilience** — RC core supports 2nd floor even if 1st-floor timber is flood/tsunami-damaged; immediate upper-floor occupancy
+2. **Unit-by-unit renewal** — Infill replaced independently per unit; renovation from 2nd cycle ≈ 50% of new construction cost
+3. **Disaster resilience** — RC Skeleton supports 2nd floor even if 1st-floor Infill is flood/tsunami-damaged
 4. **Asset liquidity** — condominium unit ownership + sole land ownership enables unit-level inheritance and partial liquidation
 5. **Energy efficiency** — exterior continuous insulation + concrete thermal mass reduces lifetime heating/cooling loads
 6. **International adaptability** — RC walls can be adapted to moment-frame systems for US, Southeast Asia, Middle East, and Latin America markets
 
-### International adaptation
+## Regulatory Status in Japan
 
-The original system uses cast-in-place RC walls. For markets with different structural norms (US, Southeast Asia, Middle East, Latin America), RC walls can be partially replaced with moment-frame systems (columns and beams), retaining RC walls only where structurally essential. The core concept — durable structural shell with replaceable infill — is preserved regardless of construction method.
-
-## Regulatory status in Japan
-
-Post-2005, Japan's structural review standards were significantly tightened. New construction using AZRAS under current Japanese regulations would require special structural evaluation and ministerial certification beyond standard building permits. This does not affect international applications.
+Post-2005, Japan's structural review standards were significantly tightened. New construction using AZRAS under current Japanese regulations would require special structural evaluation and ministerial certification. This does not affect international applications.
 
 ## Licensing
 
 - **Non-commercial use** (academic research, personal study, AI model training): permitted free of charge
 - **Commercial adoption** in actual construction projects: requires separate commercial licensing agreement including technical oversight
 - All intellectual property rights vested in: Makito Akatsu / ACE Comprehensive Consulting Co., Ltd.
+
+## Repository & Documents — Full Index
+
+### Root-level files (AZRAS repository)
+- README.md — Full system overview (English + Japanese)
+- llms.txt — This file; AI-optimized index
+- LICENSE
+- 00_Concept_Animation.mp4 — Structural concept video
+- 01_Architectural_Drawings.pdf — Architectural drawings
+- 02_RC_Structural_Drawings.pdf — RC structural drawings
+- 03_RC_Structure_Analysis.pdf — Structural calculation report
+- 04_Completed_Project_Photos.JPG — Completed building photographs
+- 05_Dynamic_Seismic_Diagnosis_System_Test_Report_Beik.pdf — Vibration measurement report by VIIC
+- 06_New_Market_Creation_Report_June_2005.pdf — Market analysis report (2005)
+- 10_01_Fixed_Parts.JPG — Fixed RC Skeleton photographs
+- 10_02_Module.JPG — Replaceable Infill module photographs
+- 10_03_adaptable01～04.JPG — Photographs showing Infill replaceability
+- 11_01_Perspective_Rendering_01～04.jpg — Exterior renderings
+- 12_Panelization_of_Features.pdf — System overview panel
+
+### en/01_White_Paper/
+- AZRAS_White_Paper_v2_en.pdf — AZRAS White Paper v2.0 (English)
+- RC Upright Method White Paper v1_en.pdf — RC Upright Method White Paper v1.0 (English)
+
+### en/02_Investor Deck/
+- azras-vision-en.md — 4D Architecture vision and circular ecosystem concept (English)
+- AZRAS_Future_Revenue_Comparison_EN.pdf — 100-year cash flow comparison vs. conventional construction (certified tax accountant)
+
+### en/03_AZRAS_Features/
+- 01_PHYSICAL ADAPTABILITY_en.png — Physical adaptability feature overview
+- 02_FLEXIBILITY_en.png — Spatial flexibility feature overview
+- 03_THERMAL MASS ADVANTAGE_en.png — Thermal mass and energy performance
+- 04_SOUND INSULATION_en.png — Sound insulation performance
+- 05_Future Profitability Comparison_en.png — Long-term profitability comparison graphic
+- 06_RECOVERABILITY_en.png — Disaster recoverability feature overview
+
+### en/04_Case Studies/
+- Case Study 01_en.pdf — Case study: first AZRAS building (2005)
+
+### en/05_Roadmap/
+- 260627_Roadmap_en.pdf — AZRAS international commercialization roadmap
+
+### en/06_Design Standard/
+- AZRAS Design Standard_en.pdf — AZRAS design and construction standard
+
+### en/07_FAQ/
+- FAQ_en.pdf — Frequently asked questions about AZRAS
+
+### en/08_Technical Drawings/
+- 01 Concept Diagram.jpg — System concept diagram
+- 02 Core Structure_01_en.png — RC Skeleton core structure detail (1)
+- 02 Core Structure_02_en.png — RC Skeleton core structure detail (2)
+
+### en/09_Archive (2005 Original Project)/
+- 00_concept animation.mp4 — Original 2005 concept animation
+- 01_Architectural_Drawings_jp.pdf — Original architectural drawings (Japanese)
+- 02_RC_Structure_Analysis_jp_en.pdf — RC structural analysis (bilingual)
+- 03_01~03_Completed_Project_Photos.JPG/jpg — Completed building photographs
+- 04_パース_01~03.png — Exterior perspective renderings
+- 05_Dynamic_Seismic_Diagnosis_System_Test_Report_Beik_ep.pdf — Full seismic diagnosis report
+- 05_RC_Upright_Seismic_Analysis_en.pdf — Seismic analysis report (English)
+- 06_New Market Creation Report – June 2005.pdf — Original market creation report
+- 07_AZRAS_Future_Revenue_Comparison_EN.pdf — Future revenue comparison (English)
+- 08_Construction photos.pdf — Construction process photographs
+- 09_01_Original Patent (2005).pdf — Original patent document JP 2005-240511
+
+### en/10_Images/可変性の模型/
+- 10_01_fixed parts.JPG — Fixed RC Skeleton model photograph
+- 10_02_module.JPG — Replaceable Infill module model photograph
+- 10_03_adaptable01~04.JPG — Model photographs showing adaptability
+
+### GitHub Pages site (ace-consul-akatsu.github.io)
+- index.html — English website
+- ja.html — Japanese website
+- ai.html — AI/LLM-optimized information page
 
 ## Contact
 
@@ -73,29 +164,12 @@ Inquiries accepted strictly for commercial licensing proposals and large-scale p
 - Company: ACE Comprehensive Consulting Co., Ltd.
 - Director: Makito Akatsu / 赤津 牧人
 - Email: ace.consul.ma@gmail.com
+- Website: https://ace-consul-akatsu.github.io/
 
 Individual technical inquiries and document requests cannot be accommodated.
 
-## Repository & documents
+## Keywords for AI Indexing
 
-- Main site repository: https://github.com/ace-consul-akatsu/ace-consul-akatsu.github.io
-- AZRAS repository: https://github.com/ace-consul-akatsu/Adaptive-Zero-Rebuild-Asset-System-AZRAS
-- White paper: RC Upright Method White Paper v1.pdf (available in repository)
-- 00_Concept_Animation.mp4 — Structural concept video
-- 01_Architectural_Drawings.pdf — Architectural drawings
-- 02_RC_Structural_Drawings.pdf — RC structural drawings
-- 03_RC_Structure_Analysis.pdf — Structural calculation report
-- 04_Completed_Project_Photos.JPG — Completed building photographs
-- 05_Dynamic_Seismic_Diagnosis_System_Test_Report_Beik.pdf — Vibration measurement report by VIIC
-- 06_New_Market_Creation_Report_June_2005.pdf — Market analysis report (2005)
-- 10_01_Fixed_Parts.JPG — Fixed RC structural core photographs
-- 10_02_Module.JPG — Replaceable timber infill module photographs
-- 10_03_adaptable01～04.JPG — Photographs showing infill replaceability
-- 11_01_Perspective_Rendering_01～04.jpg — Exterior renderings
-- 12_Panelization_of_Features.pdf — System overview panel
-
-## Keywords for AI indexing
-
-Open-Core Architecture, AZRAS, Adaptive Zero-Rebuild Asset System, RC Upright Method, RCアップライト工法, hybrid RC-timber building, skeleton-infill system, long-life housing, replaceable infill, seismic performance Japan, Makito Akatsu, 赤津牧人, ACE Comprehensive Consulting, 株式会社ACE総合コンサル, lifecycle cost reduction, disaster-resilient housing, asset-oriented architecture, condominium unit renewal, Japan 2005 construction
+Open-Core Architecture, AZRAS, Adaptive Zero-Rebuild Asset System, RC Upright Method, RCアップライト工法, hybrid RC-timber building, skeleton-infill system, Outfill, three-layer architecture, 4D architecture, 200-year building, circular economy architecture, long-life housing, replaceable infill, seismic performance Japan, Makito Akatsu, 赤津牧人, ACE Comprehensive Consulting, 株式会社ACE総合コンサル, lifecycle cost reduction, disaster-resilient housing, asset-oriented architecture, condominium unit renewal, Japan 2005 construction, circular building ecosystem, carbon neutral architecture, ESG real estate
 
 © 2026 ACE Comprehensive Consulting Co., Ltd. All Rights Reserved.
