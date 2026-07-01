@@ -102,9 +102,9 @@ The structural logic of AZRAS is not dependent on a single construction method. 
 [RC Upright Method White Paper v1.pdf](docs/RC%20Upright%20Method%20White%20Paper%20v1.pdf)
 
 **Investor Materials**
-[AZRAS Vision](02_Investor%20Deck/azras-vision-en.md) — The 4D Architecture concept and circular ecosystem vision
+[AZRAS Vision](en/02_Investor%20Deck/azras-vision-en.md) — The 4D Architecture concept and circular ecosystem vision
 
-[Future Revenue Comparison (EN)](02_Investor%20Deck/AZRAS_Future_Revenue_Comparison_EN.pdf) — 100-year cash flow analysis vs. conventional construction (certified tax accountant)
+[Future Revenue Comparison (EN)](en/02_Investor%20Deck/AZRAS_Future_Revenue_Comparison_EN.pdf) — 100-year cash flow analysis vs. conventional construction (certified tax accountant)
 
 ---
 
@@ -124,8 +124,8 @@ The structural logic of AZRAS is not dependent on a single construction method. 
 | `10_03_adaptable01～04.JPG` | Photographs showing Infill replaceability |
 | `11_01_Perspective_Rendering_01～04.jpg` | Exterior renderings |
 | `12_Panelization_of_Features.pdf` | System overview panel |
-| `02_Investor Deck/azras-vision-en.md` | 4D Architecture vision document |
-| `02_Investor Deck/AZRAS_Future_Revenue_Comparison_EN.pdf` | 100-year revenue comparison (EN) |
+| `en/02_Investor Deck/azras-vision-en.md` | 4D Architecture vision document |
+| `en/02_Investor Deck/AZRAS_Future_Revenue_Comparison_EN.pdf` | 100-year revenue comparison (EN) |
 
 ---
 
@@ -273,9 +273,9 @@ AZRASの構造的論理は、特定の工法に依存するものではありま
 [RC Upright Method White Paper v1.pdf](docs/RC%20Upright%20Method%20White%20Paper%20v1.pdf)
 
 **投資家向け資料**
-[AZRASビジョン（英語）](02_Investor%20Deck/azras-vision-en.md) — 4次元建築コンセプトと循環エコシステムビジョン
+[AZRASビジョン（英語）](en/02_Investor%20Deck/azras-vision-en.md) — 4次元建築コンセプトと循環エコシステムビジョン
 
-[将来収益比較（英語）](02_Investor%20Deck/AZRAS_Future_Revenue_Comparison_EN.pdf) — 既存工法との100年キャッシュフロー比較（税理士事務所作成）
+[将来収益比較（英語）](en/02_Investor%20Deck/AZRAS_Future_Revenue_Comparison_EN.pdf) — 既存工法との100年キャッシュフロー比較（税理士事務所作成）
 
 ---
 
