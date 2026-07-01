@@ -5,15 +5,47 @@
 
 **Developer: Makito Akatsu / ACE Comprehensive Consulting Co., Ltd.**
 
+🌐 **Website:** [ace-consul-akatsu.github.io](https://ace-consul-akatsu.github.io)
+
+---
+
+## Vision — The 4D Architecture Concept
+
+> **Why do buildings have to be consumed?**
+
+The conventional model is build, use, demolish — repeat. AZRAS breaks this cycle by giving architecture a **fourth dimension: time**.
+
+A building with a permanent Skeleton can evolve — energy-efficiently — for **200 years or more**:
+
+| Phase | AZRAS Response |
+|---|---|
+| 🏗️ At Completion | Energy-efficient, high-performance, long-life from Day 1 |
+| 🏢 Daily Operation | AI and building systems optimize in real time |
+| 🆘 Disaster Recovery | Restoration at −80% cost, −85% time |
+| 🔄 Renewal | Preserve the core; replace Infill and Outfill across generations |
+| 🌍 Social Adaptation | Flexible response to changes in use, technology, and regulation |
+
+Beyond the single building, AZRAS points toward a **circular building ecosystem**: factory-produced components are installed, removed, reconditioned, and redeployed to other AZRAS buildings — a near-zero-waste circular flow of building materials.
+
+> *Buildings shift from being consumers of resources to becoming platforms that circulate resources.*
+
 ---
 
 ## Overview
 
-AZRAS is a hybrid architectural system developed and built in 2005 in Japan. It combines a minimal Reinforced Concrete (RC) structural core with independently replaceable timber infill units, eliminating the need for full building reconstruction over the asset's lifetime.
+AZRAS (Adaptive Zero-Rebuild Asset System) is a hybrid architectural system developed and first built in 2005 in Japan. It separates a building into **three independent layers**:
 
-The core RC elements — mat foundation, one-directional load-bearing exterior walls, and party walls between units — are designed for 100+ year durability. The timber infill within each unit can be fully replaced independently, without displacing neighboring tenants or affecting the structural core.
+| Layer | Name | Role |
+|---|---|---|
+| Layer 1 | **Skeleton** (RC structural core) | Permanent structural foundation — 200+ year durability |
+| Layer 2 | **Infill** (interior & systems) | Independently replaceable; adapts to changing needs |
+| Layer 3 | **Outfill** (exterior envelope) | Independently replaceable; adapts to environmental and aesthetic change |
 
-This separation of structure and infill reduces long-term lifecycle costs, preserves asset value across generations, and enables unit-by-unit adaptation to changing market conditions.
+> *"Outfill" — the independently replaceable exterior envelope layer — is a term coined by Makito Akatsu to describe this third layer, distinct from the conventional two-layer Skeleton/Infill framework.*
+
+The Skeleton — mat foundation, one-directional load-bearing exterior walls, and party walls between units — is designed for 100+ year durability. Infill and Outfill components can be replaced independently, without affecting the structural core or displacing neighboring occupants.
+
+This three-layer separation reduces long-term lifecycle costs, preserves asset value across generations, and enables unit-by-unit adaptation to changing market conditions.
 
 ---
 
@@ -28,10 +60,10 @@ Seismic safety was verified through two independent methods in 2005:
 - Full-scale vibration response measurement on the completed building (May 18, 2005) by Vibration Instruments Co., Ltd. (VIIC)
 
 **Disaster Resilience**
-In the event of tsunami or flood damage to first-floor timber components, the RC core continues to support the second-floor slab and roof, enabling immediate occupancy and business continuity on the second floor. Recovery requires only localized repair of damaged timber elements — not full reconstruction.
+In the event of tsunami or flood damage to first-floor Infill components, the RC Skeleton continues to support the second-floor slab and roof, enabling immediate occupancy and business continuity on the second floor. Recovery requires only localized repair — not full reconstruction.
 
 **Unit-by-Unit Renewal**
-Each unit's timber infill can be replaced independently as units become vacant, without interrupting the operations of neighboring units. Renovation costs from the second cycle onward are approximately half the cost of new construction.
+Each unit's Infill can be replaced independently as units become vacant, without interrupting operations of neighboring units. Renovation costs from the second cycle onward are approximately half the cost of new construction.
 
 **Asset Liquidity**
 The system is designed around a title structure of condominium ownership for building units and sole ownership for land, enabling flexible inheritance planning and unit-level partial liquidation when needed.
@@ -45,7 +77,7 @@ Exterior continuous insulation combined with concrete thermal mass reduces heati
 
 The original system uses cast-in-place RC walls as the primary structural element. For markets with different structural norms or seismic requirements — including the United States and regions across Southeast Asia, the Middle East, and Latin America — the RC wall core can be adapted.
 
-One viable approach is replacing portions of the RC walls with moment-frame systems (columns and beams), retaining RC walls only where structurally essential. This maintains the core concept of a durable structural shell with replaceable infill, while conforming to local engineering standards and construction practices.
+One viable approach is replacing portions of the RC walls with moment-frame systems (columns and beams), retaining RC walls only where structurally essential. This maintains the core concept of a durable Skeleton with replaceable Infill and Outfill, while conforming to local engineering standards and construction practices.
 
 The structural logic of AZRAS is not dependent on a single construction method. It is a framework that can be engineered to local conditions.
 
@@ -60,14 +92,19 @@ The structural logic of AZRAS is not dependent on a single construction method. 
 | Location | Japan |
 | Seismic analysis | Dynamic nonlinear analysis, June 22, 2005 |
 | On-site measurement | Full-scale vibration test, May 18, 2005, by VIIC |
+| Patent | JP 2005-240511 (RC Upright Method) |
 
 ---
 
-## Technical White Paper
+## Documents & Resources
 
-The design philosophy and structural rationale behind this system are documented in detail in the following paper:
-
+**Technical White Paper**
 [RC Upright Method White Paper v1.pdf](docs/RC%20Upright%20Method%20White%20Paper%20v1.pdf)
+
+**Investor Materials**
+[AZRAS Vision](02_Investor%20Deck/azras-vision.md) — The 4D Architecture concept and circular ecosystem vision
+
+[Future Revenue Comparison (EN)](02_Investor%20Deck/AZRAS_Future_Revenue_Comparison_EN.pdf) — 100-year cash flow analysis vs. conventional construction (certified tax accountant)
 
 ---
 
@@ -82,11 +119,13 @@ The design philosophy and structural rationale behind this system are documented
 | `04_Completed_Project_Photos.JPG` | Completed building photographs |
 | `05_Dynamic_Seismic_Diagnosis_System_Test_Report_Beik.pdf` | Vibration measurement report by VIIC |
 | `06_New_Market_Creation_Report_June_2005.pdf` | Market analysis report (2005) |
-| `10_01_Fixed_Parts.JPG` | Fixed RC structural core photographs |
-| `10_02_Module.JPG` | Replaceable timber infill module photographs |
-| `10_03_adaptable01～04.JPG` | Photographs showing infill replaceability |
+| `10_01_Fixed_Parts.JPG` | Fixed RC Skeleton photographs |
+| `10_02_Module.JPG` | Replaceable Infill module photographs |
+| `10_03_adaptable01～04.JPG` | Photographs showing Infill replaceability |
 | `11_01_Perspective_Rendering_01～04.jpg` | Exterior renderings |
 | `12_Panelization_of_Features.pdf` | System overview panel |
+| `02_Investor Deck/azras-vision.md` | 4D Architecture vision document |
+| `02_Investor Deck/AZRAS_Future_Revenue_Comparison_EN.pdf` | 100-year revenue comparison (EN) |
 
 ---
 
@@ -123,6 +162,7 @@ Inquiries are accepted strictly for commercial licensing proposals and large-sca
 - **Company:** ACE Comprehensive Consulting Co., Ltd.
 - **Director:** Makito Akatsu
 - **Email:** `ace.consul.ma[at]gmail.com` (replace `[at]` with `@`)
+- **Website:** [ace-consul-akatsu.github.io](https://ace-consul-akatsu.github.io)
 
 Individual technical inquiries and document requests cannot be accommodated. Please refer to the published repository data.
 
@@ -140,15 +180,45 @@ Individual technical inquiries and document requests cannot be accommodated. Ple
 
 **開発：赤津 牧人 / 株式会社ACE総合コンサル**
 
+🌐 **ウェブサイト：** [ace-consul-akatsu.github.io](https://ace-consul-akatsu.github.io)
+
+---
+
+## ビジョン — 4次元対応建築というコンセプト
+
+> **建物は、なぜ「消費されるもの」なのか？**
+
+従来の建築は、作って、使って、壊す——その繰り返しです。AZRASはこのサイクルを断ち切り、建物に**時間という第4の次元**を与えます。
+
+永続的なスケルトンを持つ建物は、省エネを維持しながら**200年以上**にわたって進化し続けることができます：
+
+| フェーズ | AZRASの対応 |
+|---|---|
+| 🏗️ 新築完成時 | 初日から省エネ・高性能・長寿命設計 |
+| 🏢 日常運用 | AIと設備がリアルタイムで最適化 |
+| 🆘 災害復旧 | コスト▲80%、期間▲85%で復旧 |
+| 🔄 リニューアル | 躯体を活かし、インフィル・アウトフィルを世代更新 |
+| 🌍 社会変化への適応 | 用途変更・技術革新・法規変更に柔軟対応 |
+
+単一建物にとどまらず、AZRASは**循環型建築エコシステム**を目指します。工場生産された部材を設置・取り外し・再調整・別のAZRASへ再供給する——廃棄物ゼロに近い建材の循環フローが生まれます。
+
+> *建物が「資源を消費するもの」から、「資源を循環させるプラットフォーム」へ。*
+
 ---
 
 ## 概要
 
-AZRASは、2005年に日本で開発・実棟竣工したハイブリッド建築システムです。最小限の鉄筋コンクリート（RC）構造コアと、住戸単位で独立して交換可能な木造インフィルを組み合わせることで、建物の生涯にわたって全体の建て替えを不要にします。
+AZRAS（Adaptive Zero-Rebuild Asset System）は、2005年に日本で開発・実棟竣工したハイブリッド建築システムです。建物を**3つの独立した層**に分離します：
 
-RC部分（ベタ基礎・一方向の耐力外壁・隣戸との間仕切壁）は100年以上の耐久性を前提に設計されています。各住戸内の木造インフィルは、隣戸の居住状態や構造コアに影響を与えることなく、独立して全面的に交換することができます。
+| 層 | 名称 | 役割 |
+|---|---|---|
+| 第1層 | **スケルトン**（RC躯体） | 永続的な構造基盤 — 耐用年数200年以上 |
+| 第2層 | **インフィル**（内装・設備） | 独立して交換可能 — ニーズの変化に対応 |
+| 第3層 | **アウトフィル**（外装・外皮） | 独立して交換可能 — 環境・意匠の変化に対応 |
 
-構造とインフィルのこの分離により、長期的なライフサイクルコストが低減され、世代を超えた資産価値の維持と、市場変化への住戸単位での対応が可能になります。
+> *「アウトフィル」——独立して交換可能な外装層——は、従来の2層構造（スケルトン／インフィル）にはない第3の層を表すために赤津 牧人が造語したものです。*
+
+スケルトン（ベタ基礎・一方向の耐力外壁・隣戸壁）は100年以上の耐久性を前提に設計されています。インフィルとアウトフィルは、構造コアや隣戸に影響を与えることなく独立して交換できます。
 
 ---
 
@@ -158,18 +228,18 @@ RC部分（ベタ基礎・一方向の耐力外壁・隣戸との間仕切壁）
 2005年の実績において、初期建設コストを軽量鉄骨造並みに抑えることを達成しました。RC造の耐久性を持ちながら、一般的なRC建築を大幅に下回るコストです。
 
 **実証された耐震性能**
-2005年に2つの独立した方法で耐震安全性を検証しています。
+2005年に2つの独立した方法で耐震安全性を検証しています：
 - 外部専門機関による動的非線形地震応答解析（2005年6月22日）
 - ビイック株式会社による実棟振動応答特性計測（2005年5月18日）
 
 **災害レジリエンス**
-津波・洪水等で1階の木造部分が損傷した場合でも、RCコアが2階床・屋根を支持し続けるため、2階での即時避難生活・事業継続が可能です。復旧は損傷した木造部分のみの改修で完了し、全体の建て替えは不要です。
+津波・洪水等で1階のインフィル部分が損傷した場合でも、RCスケルトンが2階床・屋根を支持し続けるため、2階での即時入居・事業継続が可能です。復旧は損傷部分のみの改修で完了します。
 
 **住戸単位での更新**
-各住戸の木造インフィルは、退去が発生した住戸から順次、隣戸の運営を妨げることなく独立して交換できます。2回目以降の改修費用は新築時の約半額です。
+各住戸のインフィルは、退去が発生した住戸から順次、隣戸の運営を妨げることなく独立して交換できます。2回目以降の改修費用は新築時の約半額です。
 
 **資産の流動性**
-「建物は区分所有・土地は単有」の登記構造を前提に設計されており、相続時の柔軟な資産分割や、必要に応じた住戸単位での部分的な売却が可能です。
+「建物は区分所有・土地は単有」の登記構造を前提に設計されており、相続時の柔軟な資産分割や、住戸単位での部分的な売却が可能です。
 
 **省エネルギー性能**
 外断熱とコンクリートの蓄熱性を組み合わせることで、建物の生涯を通じて冷暖房負荷を低減します。
@@ -179,8 +249,6 @@ RC部分（ベタ基礎・一方向の耐力外壁・隣戸との間仕切壁）
 ## 海外市場への構造的適応性
 
 オリジナルシステムは現場打ちRC壁を主要構造要素として使用しています。米国をはじめ、東南アジア・中東・中南米など、異なる構造規範や耐震要件を持つ市場向けには、RC壁コアを適応させることが可能です。
-
-有効なアプローチの一つは、RC壁の一部をモーメントフレーム（柱と梁）に置き換え、構造上必要な箇所にのみRC壁を残す方法です。これにより、耐久性のある構造シェルと交換可能なインフィルというコンセプトを維持しながら、現地の構造基準・建設慣行に適合させることができます。
 
 AZRASの構造的論理は、特定の工法に依存するものではありません。現地の条件に合わせてエンジニアリングできるフレームワークです。
 
@@ -195,20 +263,25 @@ AZRASの構造的論理は、特定の工法に依存するものではありま
 | 建設地 | 日本 |
 | 耐震解析 | 動的非線形解析（2005年6月22日） |
 | 実棟計測 | ビイック株式会社による振動計測（2005年5月18日） |
+| 特許 | JP 2005-240511（RCアップライト工法） |
 
 ---
 
-## 技術白書 / Technical White Paper
+## 資料・ドキュメント
 
-本システムの設計思想と構造的根拠の詳細は、以下の白書に記載されています。
-
+**技術白書**
 [RC Upright Method White Paper v1.pdf](docs/RC%20Upright%20Method%20White%20Paper%20v1.pdf)
+
+**投資家向け資料**
+[AZRASビジョン（英語）](02_Investor%20Deck/azras-vision.md) — 4次元建築コンセプトと循環エコシステムビジョン
+
+[将来収益比較（英語）](02_Investor%20Deck/AZRAS_Future_Revenue_Comparison_EN.pdf) — 既存工法との100年キャッシュフロー比較（税理士事務所作成）
 
 ---
 
 ## 日本国内における申請上の現状
 
-2005年の竣工後、日本の構造審査基準が大幅に厳格化されました。現在、本システムで新築申請を行う場合、通常の確認申請に加えて、専門機関による特別な構造評定・大臣認定の取得が必要になると見込まれます。これには相応の審査期間と費用が伴います。
+2005年の竣工後、日本の構造審査基準が大幅に厳格化されました。現在、本システムで新築申請を行う場合、通常の確認申請に加えて、専門機関による特別な構造評定・大臣認定の取得が必要になると見込まれます。
 
 この規制上の状況は、各国の基準・許可手続きが適用される海外での適用には影響しません。
 
@@ -228,7 +301,7 @@ AZRASの構造的論理は、特定の工法に依存するものではありま
 
 本リポジトリのデータは、2005年時点に開発された設計思想と構造概念の提示を目的としています。いかなる地域の現行法令・建築基準・構造審査基準への適合性も保証するものではありません。
 
-実際の応用は、関連する地域の有資格構造設計士・認定機関と連携のうえ、利用者の自己責任において行ってください。本データの閲覧・利用をもって、本免責事項に同意したものとみなします。
+実際の応用は、関連する地域の有資格構造設計士・認定機関と連携のうえ、利用者の自己責任において行ってください。
 
 ---
 
@@ -239,6 +312,7 @@ AZRASの構造的論理は、特定の工法に依存するものではありま
 - **会社名：** 株式会社ACE総合コンサル
 - **代表：** 赤津 牧人
 - **メール：** `ace.consul.ma[at]gmail.com`（`[at]`を`@`に変えてください）
+- **ウェブサイト：** [ace-consul-akatsu.github.io](https://ace-consul-akatsu.github.io)
 
 個別の技術的質問・資料請求への対応は、人員の都合上いたしかねます。公開データをご参照ください。
 
