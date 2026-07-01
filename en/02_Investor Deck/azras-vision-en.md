@@ -23,11 +23,13 @@ It is composed of three independent layers:
 
 | Layer | Name | Role |
 |---|---|---|
-| Layer 1 | **Skeleton** (RC structural core) | Permanent structural foundation — 200+ years |
+| Layer 1 | **Skeleton** (RC structural core) | Permanent structural foundation — currently 100+ years, targeting 200+ years in the near future |
 | Layer 2 | **Infill** (interior & systems) | Replaceable to meet evolving needs |
 | Layer 3 | **Outfill** (exterior envelope) | Updatable in response to environmental change |
 
-This three-layer separation is the heart of AZRAS.
+This three-layer separation is the heart of AZRAS.  
+The Skeleton already achieves 100+ years of durability. Through advances in concrete technology and new materials, AZRAS targets 200+ years in the near future.  
+*"Outfill"* — the independently replaceable exterior envelope — is a term coined by Makito Akatsu to describe this third layer, distinct from the conventional two-layer Skeleton/Infill framework.
 
 ---
 
@@ -41,7 +43,7 @@ Completion  →  Daily Use  →  Disaster Recovery  →  Renewal  →  Social Ad
      └─────────────────── The Skeleton endures — unchanged ────────────────────┘
 ```
 
-**Throughout the entire life of a building, AZRAS continues to optimize.**
+**A building with a permanent Skeleton can evolve — energy-efficiently — targeting 200+ years in the near future.**
 
 - 🏗️ **At Completion** : Energy-efficient, high-performance, long-life from Day 1
 - 🏢 **Daily Operation** : AI and building systems optimize in real time
@@ -57,7 +59,7 @@ The AZRAS vision extends far beyond a single long-life building.
 
 **The future we are building toward:**
 
-1. Infill and outfill components manufactured in factories (high precision, low cost)
+1. Infill and Outfill components manufactured in factories (high precision, low cost)
 2. Removed components returned to factory for reconditioning and regeneration
 3. Regenerated components supplied to other AZRAS buildings
 4. A near-zero-waste **circular flow of building materials**
@@ -86,7 +88,7 @@ When the world began talking about sustainability, AZRAS was already standing.
 
 | Global Trend | AZRAS Alignment |
 |---|---|
-| Carbon Neutrality | Reduced construction waste and CO₂ via skeleton preservation |
+| Carbon Neutrality | Reduced construction waste and CO₂ via Skeleton preservation |
 | Circular Economy | Component circulation and reuse system |
 | AI & IoT Integration | Full compatibility with smart building technology |
 | Growing Disaster Risk | Fastest, lowest-cost restoration capability |
@@ -98,7 +100,7 @@ Every major wave is moving in the direction of AZRAS.
 
 ### The Future We Are Building
 
-> *With a Skeleton in place, a building can evolve — energy-efficiently — for 200 years or more.*  
+> *With a Skeleton in place, a building can evolve — energy-efficiently — targeting 200 years or more.*  
 > *Every new material makes it stronger.*  
 > *Every advance in AI makes it smarter.*  
 > *Every shift in society, it answers.*
