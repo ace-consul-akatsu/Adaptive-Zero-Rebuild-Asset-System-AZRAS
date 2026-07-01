@@ -113,20 +113,38 @@ The structural logic of AZRAS is not dependent on a single construction method. 
 
 | File | Description |
 |---|---|
-| `00_Concept_Animation.mp4` | Structural concept video |
-| `01_Architectural_Drawings.pdf` | Architectural drawings |
-| `02_RC_Structural_Drawings.pdf` | RC structural drawings |
-| `03_RC_Structure_Analysis.pdf` | Structural calculation report |
-| `04_Completed_Project_Photos.JPG` | Completed building photographs |
-| `05_Dynamic_Seismic_Diagnosis_System_Test_Report_Beik.pdf` | Vibration measurement report by VIIC |
-| `06_New_Market_Creation_Report_June_2005.pdf` | Market analysis report (2005) |
-| `10_01_Fixed_Parts.JPG` | Fixed RC Skeleton photographs |
-| `10_02_Module.JPG` | Replaceable Infill module photographs |
-| `10_03_adaptable01～04.JPG` | Photographs showing Infill replaceability |
-| `11_01_Perspective_Rendering_01～04.jpg` | Exterior renderings |
-| `12_Panelization_of_Features.pdf` | System overview panel |
+| `docs/AZRAS_White_Paper_v2_en.pdf` | AZRAS White Paper v2.0 (English) |
+| `docs/RC Upright Method White Paper v1_en.pdf` | RC Upright Method White Paper v1.0 (English) |
+| `en/01_White_Paper/AZRAS_White_Paper_v2_en.pdf` | AZRAS White Paper v2.0 |
+| `en/01_White_Paper/RC Upright Method White Paper v1_en.pdf` | RC Upright Method White Paper v1.0 |
 | `en/02_Investor Deck/azras-vision-en.md` | 4D Architecture vision document |
 | `en/02_Investor Deck/AZRAS_Future_Revenue_Comparison_EN.pdf` | 100-year revenue comparison (EN) |
+| `en/03_AZRAS_Features/01_PHYSICAL ADAPTABILITY_en.png` | Physical adaptability feature overview |
+| `en/03_AZRAS_Features/02_FLEXIBILITY_en.png` | Spatial flexibility feature overview |
+| `en/03_AZRAS_Features/03_THERMAL MASS ADVANTAGE_en.png` | Thermal mass and energy performance |
+| `en/03_AZRAS_Features/04_SOUND INSULATION_en.png` | Sound insulation performance |
+| `en/03_AZRAS_Features/05_Future Profitability Comparison_en.png` | Long-term profitability comparison |
+| `en/03_AZRAS_Features/06_RECOVERABILITY_en.png` | Disaster recoverability feature overview |
+| `en/04_Case Studies/Case Study 01_en.pdf` | Case study: first AZRAS building (2005) |
+| `en/05_Roadmap/260627_Roadmap_en.pdf` | AZRAS international commercialization roadmap |
+| `en/06_Design Standard/AZRAS Design Standard_en.pdf` | AZRAS design and construction standard |
+| `en/07_FAQ/FAQ_en.pdf` | Frequently asked questions about AZRAS |
+| `en/08_Technical Drawings/01 Concept Diagram.jpg` | System concept diagram |
+| `en/08_Technical Drawings/02 Core Structure_01_en.png` | RC Skeleton core structure detail (1) |
+| `en/08_Technical Drawings/02 Core Structure_02_en.png` | RC Skeleton core structure detail (2) |
+| `en/09_Archive (2005 Original Project)/00_concept animation.mp4` | Original 2005 concept animation |
+| `en/09_Archive (2005 Original Project)/01_Architectural_Drawings_jp.pdf` | Original architectural drawings |
+| `en/09_Archive (2005 Original Project)/02_RC_Structure_Analysis_jp_en.pdf` | RC structural analysis (bilingual) |
+| `en/09_Archive (2005 Original Project)/03_01~03_Completed_Project_Photos.JPG` | Completed building photographs |
+| `en/09_Archive (2005 Original Project)/05_RC_Upright_Seismic_Analysis_en.pdf` | Seismic analysis report (English) |
+| `en/09_Archive (2005 Original Project)/05_Dynamic_Seismic_Diagnosis_System_Test_Report_Beik_ep.pdf` | Full seismic diagnosis report by VIIC |
+| `en/09_Archive (2005 Original Project)/06_New Market Creation Report – June 2005.pdf` | Original market creation report (2005) |
+| `en/09_Archive (2005 Original Project)/07_AZRAS_Future_Revenue_Comparison_EN.pdf` | Future revenue comparison (English) |
+| `en/09_Archive (2005 Original Project)/08_Construction photos.pdf` | Construction process photographs |
+| `en/09_Archive (2005 Original Project)/09_01_Original Patent (2005).pdf` | Original patent document JP 2005-240511 |
+| `en/10_Images/可変性の模型/10_01_fixed parts.JPG` | Fixed RC Skeleton model photograph |
+| `en/10_Images/可変性の模型/10_02_module.JPG` | Replaceable Infill module model photograph |
+| `en/10_Images/可変性の模型/10_03_adaptable01~04.JPG` | Model photographs showing adaptability |
 
 ---
 
