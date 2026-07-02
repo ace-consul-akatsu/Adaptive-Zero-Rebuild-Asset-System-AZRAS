@@ -37,13 +37,13 @@ AZRAS (Adaptive Zero-Rebuild Asset System) is a hybrid architectural system deve
 
 | Layer | Name | Role |
 |---|---|---|
-| Layer 1 | **Skeleton** (RC structural core) | Permanent structural foundation — 200+ year durability |
+| Layer 1 | **Skeleton** (RC structural core) | Permanent structural foundation — 100-year durability already verified; engineered toward 200+ years as future technology advances |
 | Layer 2 | **Infill** (interior & systems) | Independently replaceable; adapts to changing needs |
 | Layer 3 | **Outfill** (exterior envelope) | Independently replaceable; adapts to environmental and aesthetic change |
 
 > *"Outfill" — the independently replaceable exterior envelope layer — is a term coined by Makito Akatsu to describe this third layer, distinct from the conventional two-layer Skeleton/Infill framework.*
 
-The Skeleton — mat foundation, one-directional load-bearing exterior walls, and party walls between units — is designed for 100+ year durability. Infill and Outfill components can be replaced independently, without affecting the structural core or displacing neighboring occupants.
+The 100-year durability of the Skeleton — mat foundation, one-directional load-bearing exterior walls, and party walls between units — has already been verified, and it is designed to be engineered toward 200 years and beyond as future technology advances. Infill and Outfill components can be replaced independently, without affecting the structural core or displacing neighboring occupants.
 
 This three-layer separation reduces long-term lifecycle costs, preserves asset value across generations, and enables unit-by-unit adaptation to changing market conditions.
 
@@ -231,13 +231,13 @@ AZRAS（Adaptive Zero-Rebuild Asset System）は、2005年に日本で開発・�
 
 | 層 | 名称 | 役割 |
 |---|---|---|
-| 第1層 | **スケルトン**（RC躯体） | 永続的な構造基盤 — 耐用年数200年以上 |
+| 第1層 | **スケルトン**（RC躯体） | 永続的な構造基盤 — 100年の耐久性はすでに実証済み、将来技術により200年以上を目指し設計 |
 | 第2層 | **インフィル**（内装・設備） | 独立して交換可能 — ニーズの変化に対応 |
 | 第3層 | **アウトフィル**（外装・外皮） | 独立して交換可能 — 環境・意匠の変化に対応 |
 
 > *「アウトフィル」——独立して交換可能な外装層——は、従来の2層構造（スケルトン／インフィル）にはない第3の層を表すために赤津 牧人が造語したものです。*
 
-スケルトン（ベタ基礎・一方向の耐力外壁・隣戸壁）は100年以上の耐久性を前提に設計されています。インフィルとアウトフィルは、構造コアや隣戸に影響を与えることなく独立して交換できます。
+RCの耐久性はすでに100年の耐久性が実証されており、AZRASは、これからの時代の技術によって200年以上の耐久性を持つよう設計されていきます。AZRASは、その揺るぎないスケルトン（ベタ基礎・一方向の耐力外壁・隣戸壁）の上に成り立っています。インフィルとアウトフィルは、構造コアや隣戸に影響を与えることなく独立して交換できます。
 
 ---
 
