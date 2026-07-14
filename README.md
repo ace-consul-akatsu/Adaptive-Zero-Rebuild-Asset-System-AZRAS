@@ -29,6 +29,10 @@ Beyond the single building, AZRAS points toward a **circular building ecosystem*
 
 > *Buildings shift from being consumers of resources to becoming platforms that circulate resources.*
 
+> **AZRAS is not an architectural style. It is a universal asset design framework that allows any architectural style to evolve, adapt, and remain valuable for generations.**
+>
+> As AI, AGI, and ASI advance, architectural design itself will increasingly be generated and optimized by machines. AZRAS does not compete on that layer. It operates one layer below — on how a building, regardless of its style or region, is designed to be renewed rather than demolished. This positions AZRAS not against any architect's design, but as the underlying platform on which any design can remain valuable across generations.
+
 ---
 
 ## Overview
@@ -222,6 +226,10 @@ Individual technical inquiries and document requests cannot be accommodated. Ple
 単一建物にとどまらず、AZRASは**循環型建築エコシステム**を目指します。工場生産された部材を設置・取り外し・再調整・別のAZRASへ再供給する——廃棄物ゼロに近い建材の循環フローが生まれます。
 
 > *建物が「資源を消費するもの」から、「資源を循環させるプラットフォーム」へ。*
+
+> **AZRASは建築デザインではない。あらゆる建築デザインを、世代を超えて進化・適応させ、資産価値を維持するための普遍的な資産設計フレームワークである。**
+>
+> AI・AGI・ASIが進化するほど、建築デザインの生成・最適化そのものは機械が担うようになっていくでしょう。AZRASはそのレイヤーでは競合しません。AZRASが扱うのは一段下のレイヤー——様式や地域を問わず、建物を「壊して建て替える」のではなく「更新し続ける」ために、どう設計するかです。この位置づけにより、AZRASはどの建築家のデザインとも競合せず、あらゆるデザインが世代を超えて資産価値を保ち続けるための基盤として機能します。
 
 ---
 
