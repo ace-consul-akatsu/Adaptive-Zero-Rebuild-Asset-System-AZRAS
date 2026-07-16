@@ -1,3 +1,5 @@
+> **AZRAS = A-Zero-RAS** ("アゼラス") — the **"Z" stands for Zero**. Zero Carbon / Zero Noise (30cm wall) / Zero Fire-Spread / Zero Vacancy (built to last 100 years).
+
 # ACE Comprehensive Consulting — AZRAS
 
 ### Open-Core Architecture · Adaptive Zero-Rebuild Asset System
@@ -195,6 +197,8 @@ Individual technical inquiries and document requests cannot be accommodated. Ple
 
 ---
 ---
+
+> **AZRAS = A-Zero-RAS（アゼラス）** — 「Z」は **Zero（ゼロ）** のZ。カーボン ゼロ／騒音 ゼロ（30cmの壁）／延焼 ゼロ／空室 ゼロ（100年持つから）。
 
 # ACE Comprehensive Consulting — AZRAS
 
