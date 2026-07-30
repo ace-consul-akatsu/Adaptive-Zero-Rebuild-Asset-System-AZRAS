@@ -1,3 +1,7 @@
-# AZRAS Platform Core
+# AZRAS Integrated Comparison
 
-Core analysis application of AZRAS Platform.
+Integrated comparison application of AZRAS Platform.
+
+This software compares multiple construction methods,
+regions, environmental performance, costs, and long-term
+business feasibility.
