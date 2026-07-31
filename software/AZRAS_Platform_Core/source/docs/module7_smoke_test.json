@@ -1,0 +1,1082 @@
+{
+  "version": "9.6",
+  "module": "module7",
+  "currency": "JPY",
+  "period_years": 200,
+  "event_costs": [
+    {
+      "event_id": "1",
+      "year": 15,
+      "action": "replace_equipment",
+      "component_key": "equipment_hvac",
+      "component": "HVAC",
+      "component_new_cost": 7325573.42,
+      "work_cost": 7325573.42,
+      "demolition_cost": 586045.8736,
+      "waste_cost": 146511.4684,
+      "temporary_cost": 632929.543488,
+      "reuse_credit": 98895.24117,
+      "recycling_credit": 293022.9368,
+      "overhead": 995897.0553021599,
+      "contingency": 650652.7427974113,
+      "tax": 994569.1925617573,
+      "event_total": 10940261.118179329
+    },
+    {
+      "event_id": "2",
+      "year": 30,
+      "action": "replace_infill",
+      "component_key": "infill_layout",
+      "component": "Infill",
+      "component_new_cost": 10655379.52,
+      "work_cost": 10655379.52,
+      "demolition_cost": 1065537.952,
+      "waste_cost": 266384.488,
+      "temporary_cost": 937673.39776,
+      "reuse_credit": 479492.07840000006,
+      "recycling_credit": 293022.9368,
+      "overhead": 1458295.2411071998,
+      "contingency": 952752.890856704,
+      "tax": 1456350.8474523902,
+      "event_total": 16019859.321976293
+    },
+    {
+      "event_id": "3",
+      "year": 100,
+      "action": "partial_demolition",
+      "component_key": "all_infill",
+      "component": "All Infill",
+      "component_new_cost": 49281130.28,
+      "work_cost": 0.0,
+      "demolition_cost": 7392169.542,
+      "waste_cost": 1848042.3855,
+      "temporary_cost": 591373.56336,
+      "reuse_credit": 2217650.8626,
+      "recycling_credit": 1601636.7341,
+      "overhead": 721475.7472991999,
+      "contingency": 471364.15490214404,
+      "tax": 720513.7796361344,
+      "event_total": 7925651.575997478
+    }
+  ],
+  "annual_cost_timeline": [
+    {
+      "year": 1,
+      "annual_cost": 0,
+      "cumulative_cost": 0
+    },
+    {
+      "year": 2,
+      "annual_cost": 0,
+      "cumulative_cost": 0
+    },
+    {
+      "year": 3,
+      "annual_cost": 0,
+      "cumulative_cost": 0
+    },
+    {
+      "year": 4,
+      "annual_cost": 0,
+      "cumulative_cost": 0
+    },
+    {
+      "year": 5,
+      "annual_cost": 0,
+      "cumulative_cost": 0
+    },
+    {
+      "year": 6,
+      "annual_cost": 0,
+      "cumulative_cost": 0
+    },
+    {
+      "year": 7,
+      "annual_cost": 0,
+      "cumulative_cost": 0
+    },
+    {
+      "year": 8,
+      "annual_cost": 0,
+      "cumulative_cost": 0
+    },
+    {
+      "year": 9,
+      "annual_cost": 0,
+      "cumulative_cost": 0
+    },
+    {
+      "year": 10,
+      "annual_cost": 0,
+      "cumulative_cost": 0
+    },
+    {
+      "year": 11,
+      "annual_cost": 0,
+      "cumulative_cost": 0
+    },
+    {
+      "year": 12,
+      "annual_cost": 0,
+      "cumulative_cost": 0
+    },
+    {
+      "year": 13,
+      "annual_cost": 0,
+      "cumulative_cost": 0
+    },
+    {
+      "year": 14,
+      "annual_cost": 0,
+      "cumulative_cost": 0
+    },
+    {
+      "year": 15,
+      "annual_cost": 10940261.118179329,
+      "cumulative_cost": 10940261.118179329
+    },
+    {
+      "year": 16,
+      "annual_cost": 0,
+      "cumulative_cost": 10940261.118179329
+    },
+    {
+      "year": 17,
+      "annual_cost": 0,
+      "cumulative_cost": 10940261.118179329
+    },
+    {
+      "year": 18,
+      "annual_cost": 0,
+      "cumulative_cost": 10940261.118179329
+    },
+    {
+      "year": 19,
+      "annual_cost": 0,
+      "cumulative_cost": 10940261.118179329
+    },
+    {
+      "year": 20,
+      "annual_cost": 0,
+      "cumulative_cost": 10940261.118179329
+    },
+    {
+      "year": 21,
+      "annual_cost": 0,
+      "cumulative_cost": 10940261.118179329
+    },
+    {
+      "year": 22,
+      "annual_cost": 0,
+      "cumulative_cost": 10940261.118179329
+    },
+    {
+      "year": 23,
+      "annual_cost": 0,
+      "cumulative_cost": 10940261.118179329
+    },
+    {
+      "year": 24,
+      "annual_cost": 0,
+      "cumulative_cost": 10940261.118179329
+    },
+    {
+      "year": 25,
+      "annual_cost": 0,
+      "cumulative_cost": 10940261.118179329
+    },
+    {
+      "year": 26,
+      "annual_cost": 0,
+      "cumulative_cost": 10940261.118179329
+    },
+    {
+      "year": 27,
+      "annual_cost": 0,
+      "cumulative_cost": 10940261.118179329
+    },
+    {
+      "year": 28,
+      "annual_cost": 0,
+      "cumulative_cost": 10940261.118179329
+    },
+    {
+      "year": 29,
+      "annual_cost": 0,
+      "cumulative_cost": 10940261.118179329
+    },
+    {
+      "year": 30,
+      "annual_cost": 16019859.321976293,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 31,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 32,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 33,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 34,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 35,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 36,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 37,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 38,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 39,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 40,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 41,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 42,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 43,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 44,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 45,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 46,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 47,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 48,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 49,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 50,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 51,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 52,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 53,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 54,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 55,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 56,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 57,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 58,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 59,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 60,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 61,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 62,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 63,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 64,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 65,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 66,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 67,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 68,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 69,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 70,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 71,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 72,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 73,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 74,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 75,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 76,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 77,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 78,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 79,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 80,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 81,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 82,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 83,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 84,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 85,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 86,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 87,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 88,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 89,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 90,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 91,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 92,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 93,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 94,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 95,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 96,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 97,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 98,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 99,
+      "annual_cost": 0,
+      "cumulative_cost": 26960120.44015562
+    },
+    {
+      "year": 100,
+      "annual_cost": 7925651.575997478,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 101,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 102,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 103,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 104,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 105,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 106,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 107,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 108,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 109,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 110,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 111,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 112,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 113,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 114,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 115,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 116,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 117,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 118,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 119,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 120,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 121,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 122,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 123,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 124,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 125,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 126,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 127,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 128,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 129,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 130,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 131,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 132,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 133,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 134,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 135,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 136,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 137,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 138,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 139,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 140,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 141,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 142,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 143,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 144,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 145,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 146,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 147,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 148,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 149,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 150,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 151,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 152,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 153,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 154,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 155,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 156,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 157,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 158,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 159,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 160,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 161,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 162,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 163,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 164,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 165,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 166,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 167,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 168,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 169,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 170,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 171,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 172,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 173,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 174,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 175,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 176,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 177,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 178,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 179,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 180,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 181,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 182,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 183,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 184,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 185,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 186,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 187,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 188,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 189,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 190,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 191,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 192,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 193,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 194,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 195,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 196,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 197,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 198,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 199,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    },
+    {
+      "year": 200,
+      "annual_cost": 0,
+      "cumulative_cost": 34885772.0161531
+    }
+  ],
+  "summary": {
+    "total_lifecycle_work_cost": 34885772.0161531,
+    "average_annual_cost": 174428.86008076547,
+    "cost_per_m2_year": 711.6640558170767,
+    "event_count": 3,
+    "total_demolition_cost": 9043753.367600001,
+    "total_waste_cost": 2260938.3419000003,
+    "total_credits": 4983720.78987
+  },
+  "settings": {
+    "reuse_credit": 0.45,
+    "recycling_credit": 0.05,
+    "waste": 0.25,
+    "temporary": 0.08,
+    "overhead": 0.12,
+    "contingency": 0.07,
+    "tax": 0.1
+  }
+}

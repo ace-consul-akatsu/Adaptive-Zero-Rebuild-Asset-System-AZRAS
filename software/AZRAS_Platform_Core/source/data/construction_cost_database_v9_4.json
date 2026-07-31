@@ -1,0 +1,258 @@
+{
+  "version": "9.4",
+  "status": "planning_comparison_defaults",
+  "notice_ja": "単価は企画比較用の初期値です。日本では建設物価、建築コスト情報、見積書、専門工事会社資料等を参照し、対象時点・地域・仕様へ修正してください。海外も各国の公的統計、積算資料、市場見積へ置き換えてください。",
+  "notice_en": "Unit costs are planning-comparison defaults. In Japan, update them using current construction-price publications, cost references, quotations and specialist contractor data. In other countries, replace them with official statistics, cost guides and market quotations.",
+  "locations": {
+    "Japan / Tokyo": {
+      "currency": "JPY",
+      "year": 2026,
+      "material_index": 112.0,
+      "labor_index": 118.0,
+      "productivity_index": 95.0,
+      "unit_costs": {}
+    },
+    "Japan / Nagoya": {
+      "currency": "JPY",
+      "year": 2026,
+      "material_index": 105.0,
+      "labor_index": 105.0,
+      "productivity_index": 100.0,
+      "unit_costs": {}
+    },
+    "Japan / Sapporo": {
+      "currency": "JPY",
+      "year": 2026,
+      "material_index": 110.0,
+      "labor_index": 108.0,
+      "productivity_index": 92.0,
+      "unit_costs": {}
+    },
+    "United States / New York": {
+      "currency": "USD",
+      "year": 2026,
+      "material_index": 125.0,
+      "labor_index": 155.0,
+      "productivity_index": 95.0,
+      "unit_costs": {}
+    },
+    "United Kingdom / London": {
+      "currency": "GBP",
+      "year": 2026,
+      "material_index": 122.0,
+      "labor_index": 145.0,
+      "productivity_index": 95.0,
+      "unit_costs": {}
+    },
+    "User Defined": {
+      "currency": "JPY",
+      "year": 2026,
+      "material_index": 100.0,
+      "labor_index": 100.0,
+      "productivity_index": 100.0,
+      "unit_costs": {}
+    }
+  },
+  "base_unit_costs_jpy": {
+    "concrete": {
+      "ja": "コンクリート",
+      "en": "Concrete",
+      "unit": "m3",
+      "material": 22000,
+      "labor": 18000,
+      "equipment": 5000
+    },
+    "reinforcing_steel": {
+      "ja": "鉄筋",
+      "en": "Reinforcing Steel",
+      "unit": "t",
+      "material": 145000,
+      "labor": 90000,
+      "equipment": 10000
+    },
+    "structural_steel": {
+      "ja": "構造用鉄骨",
+      "en": "Structural Steel",
+      "unit": "t",
+      "material": 280000,
+      "labor": 145000,
+      "equipment": 35000
+    },
+    "dimension_lumber": {
+      "ja": "2×6・一般木材",
+      "en": "2×6 / General Lumber",
+      "unit": "m3",
+      "material": 125000,
+      "labor": 85000,
+      "equipment": 8000
+    },
+    "clt": {
+      "ja": "CLT・Mass Timber",
+      "en": "CLT / Mass Timber",
+      "unit": "m3",
+      "material": 210000,
+      "labor": 95000,
+      "equipment": 18000
+    },
+    "phenolic_foam": {
+      "ja": "フェノールフォーム",
+      "en": "Phenolic Foam",
+      "unit": "m3",
+      "material": 360000,
+      "labor": 90000,
+      "equipment": 10000
+    },
+    "xps": {
+      "ja": "XPS",
+      "en": "XPS",
+      "unit": "m3",
+      "material": 230000,
+      "labor": 70000,
+      "equipment": 8000
+    },
+    "glass": {
+      "ja": "ガラス・窓",
+      "en": "Glass / Windows",
+      "unit": "m2",
+      "material": 52000,
+      "labor": 23000,
+      "equipment": 3000
+    },
+    "gypsum_board": {
+      "ja": "石膏ボード",
+      "en": "Gypsum Board",
+      "unit": "m2",
+      "material": 2400,
+      "labor": 3300,
+      "equipment": 300
+    },
+    "roofing": {
+      "ja": "屋根・防水",
+      "en": "Roofing / Waterproofing",
+      "unit": "m2",
+      "material": 9000,
+      "labor": 7500,
+      "equipment": 1500
+    },
+    "doors": {
+      "ja": "ドア・建具",
+      "en": "Doors / Openings",
+      "unit": "m2",
+      "material": 68000,
+      "labor": 25000,
+      "equipment": 2000
+    },
+    "interior_finish": {
+      "ja": "内装仕上",
+      "en": "Interior Finish",
+      "unit": "m2",
+      "material": 18000,
+      "labor": 16000,
+      "equipment": 1000
+    },
+    "external_finish": {
+      "ja": "外装仕上",
+      "en": "External Finish",
+      "unit": "m2",
+      "material": 24000,
+      "labor": 20000,
+      "equipment": 2000
+    }
+  },
+  "equipment_packages": {
+    "hvac": {
+      "ja": "空調設備一式",
+      "en": "HVAC Package",
+      "default_cost_jpy": 5500000
+    },
+    "electrical": {
+      "ja": "電気設備一式",
+      "en": "Electrical Package",
+      "default_cost_jpy": 4200000
+    },
+    "plumbing": {
+      "ja": "給排水衛生設備一式",
+      "en": "Plumbing / Sanitary Package",
+      "default_cost_jpy": 4800000
+    },
+    "kitchen": {
+      "ja": "キッチン一式",
+      "en": "Kitchen Package",
+      "default_cost_jpy": 3000000
+    },
+    "bathroom": {
+      "ja": "ユニットバス等一式",
+      "en": "Bathroom Package",
+      "default_cost_jpy": 3600000
+    },
+    "other": {
+      "ja": "その他設備一式",
+      "en": "Other Equipment Package",
+      "default_cost_jpy": 0
+    }
+  },
+  "conditions": {
+    "site": {
+      "flat_clear": {
+        "ja": "平坦・障害物なし・十分な施工ヤード",
+        "en": "Level, unobstructed, adequate work area",
+        "factor": 1.0
+      },
+      "moderate": {
+        "ja": "一般的な市街地条件",
+        "en": "Typical urban conditions",
+        "factor": 1.08
+      },
+      "difficult": {
+        "ja": "狭小・高低差・障害物あり",
+        "en": "Restricted, sloping or obstructed site",
+        "factor": 1.2
+      }
+    },
+    "access": {
+      "good": {
+        "ja": "大型車搬入可能",
+        "en": "Good large-vehicle access",
+        "factor": 1.0
+      },
+      "restricted": {
+        "ja": "大型車搬入制限あり",
+        "en": "Large-vehicle access restricted",
+        "factor": 1.08
+      },
+      "manual": {
+        "ja": "小運搬・人力搬入が多い",
+        "en": "Frequent small/manual delivery",
+        "factor": 1.18
+      }
+    },
+    "work_time": {
+      "day": {
+        "ja": "昼間施工",
+        "en": "Daytime construction",
+        "factor": 1.0
+      },
+      "limited": {
+        "ja": "時間制限あり",
+        "en": "Restricted working hours",
+        "factor": 1.08
+      },
+      "night": {
+        "ja": "夜間・休日施工を含む",
+        "en": "Night / holiday construction",
+        "factor": 1.2
+      }
+    }
+  },
+  "rates": {
+    "overhead_percent": 12.0,
+    "contingency_percent": 5.0,
+    "design_supervision_percent": 8.0,
+    "tax_percent": 10.0
+  },
+  "schedule": {
+    "base_productivity_m2_per_month": 55.0,
+    "mobilization_months": 1.0,
+    "commissioning_months": 1.0
+  }
+}
