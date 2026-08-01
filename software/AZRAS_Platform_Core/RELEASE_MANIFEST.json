@@ -1,0 +1,22 @@
+{
+  "product": "AZRAS Platform Core",
+  "version": "3.4.2",
+  "status": "Official Release",
+  "description_ja": "建築ライフサイクル統合解析プラットフォーム",
+  "description_en": "Integrated Building Life-Cycle Analysis Platform",
+  "project_json_schema": "2.0",
+  "official_executable": "AZRAS_Platform_Core_v3_4_2.exe",
+  "modules": [
+    "Module 0",
+    "Module 1",
+    "Module 2",
+    "Module 3",
+    "Module 4",
+    "Module 5",
+    "Module 6",
+    "Module 7",
+    "Module 8",
+    "Module 9"
+  ],
+  "company": "ACE Comprehensive Consulting Co., Ltd."
+}
