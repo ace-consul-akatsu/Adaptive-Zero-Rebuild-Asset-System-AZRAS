@@ -1,5 +1,0 @@
-AZRAS Platform Core v3.4.0
-Developed and provided by ACE Comprehensive Consulting Co., Ltd. / 株式会社ACE総合コンサル
-Copyright (C) 2026 ACE Comprehensive Consulting Co., Ltd.
-Repository: https://github.com/ace-consul-akatsu
-See LICENSE.txt for license terms and disclaimer.
