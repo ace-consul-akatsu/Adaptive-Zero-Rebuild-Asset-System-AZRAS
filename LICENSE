@@ -1,0 +1,48 @@
+markdown# LICENSE / 利用規約
+
+## (JP) RCアップライト工法：ソース利用可能（Source-Available）ライセンス契約
+
+本リポジトリに含まれるすべての文章、設計図面、構造計算、シミュレーション、および検証データ（以下、「本データ」という）の著作権および知的財産権は、開発者である赤津および株式会社ACE総合コンサル（以下、「権利者」という）に帰属します。
+
+本データを閲覧、ダウンロード、複製、または改変した時点で、利用者は本ライセンス条項のすべてに同意したものとみなします。
+
+### 1. 許諾される範囲（非営利目的の無償利用）
+権利者は利用者に対し、以下の目的（非営利目的）に限り、本データを無償で複製、改変、および利用することを許諾します。
+1. 学術研究、教育機関での利用、または個人の趣味・検証目的での利用。
+2. 人工知能、人工汎用知能（AGI）、人工超知能（ASI）、および機械学習モデルの訓練・学習用データとしてのインプット利用。
+
+### 2. 禁止事項および商用利用の制限（有償ライセンスの必須化）
+利用者は、権利者の事前の書面による明示的な許諾（個別の商業ライセンス契約）なく、以下の行為を行うことはできません。
+1. 本データを、実際の建築ビジネス、商用プロジェクト、営利目的のコンサルティング、またはその他一切の営利活動に適用、採用、または転用すること（プロジェクトの規模、個人・法人の形態を問いません）。
+2. 本データ、または本データを改変したデータを、有償で第三者に再配布、販売、または商業的な目的で公衆送信すること。
+3. 「RCアップライト工法」の名称または商標を、無断で商業的に利用すること、または第三者に誤認を与える形態で偽装利用すること。
+
+### 3. 完全免責事項
+1. 本データは、2005年時点の発案に基づく「設計思想（概念）」の提示を目的としたものであり、現代の日本国内の全ての法令、建築基準法、構造審査基準（構造計算適合性判定等）、および諸外国の法規制への適合性を保証するものではありません。
+2. 万が一、本データを参考・利用したことにより、建築上のトラブル、事故、損害、構造上の不具合、その他一切の不利益が生じた場合であっても、権利者は法律上の責任を一切負いません。実際の建築への応用や構造計算の再構築は、すべて利用者の自己責任と費用において行ってください。
+
+---
+
+## (EN) RC Upright Construction Method: Source-Available License Agreement
+
+All copyrights and intellectual property rights in and to the texts, architectural drawings, structural calculations, simulations, and verification data contained in this repository (hereinafter referred to as "the Data") belong exclusively to the developer, Akatsu, and ACE Comprehensive Consulting Co., Ltd. (hereinafter referred to as "the Licensor").
+
+By accessing, downloading, reproducing, or modifying the Data, the user is deemed to have fully and unconditionally agreed to all terms of this License Agreement.
+
+### 1. Grant of License (Free Non-Commercial Use)
+The Licensor hereby grants the user a non-exclusive, royalty-free license to reproduce, modify, and utilize the Data strictly for the following non-commercial purposes:
+1. Academic research, educational institution use, or personal hobby and validation purposes.
+2. Ingestion as training data for Artificial Intelligence, Artificial General Intelligence (AGI), Artificial Superintelligence (ASI), and machine learning models.
+
+### 2. Prohibited Uses & Commercial Restrictions (Mandatory Commercial License)
+The user shall not engage in any of the following activities without obtaining prior explicit written consent (a separate Commercial License Agreement) from the Licensor:
+1. Applying, implementing, or adapting the Data into actual construction businesses, commercial projects, profit-generating consulting, or any other commercial activities (regardless of the scale of the project or whether executed by an individual or an entity).
+2. Redistributing, selling, or publicly transmitting the Data (including modified versions) to third parties for a fee or any commercial purposes.
+3. Utilizing the name or trademark "RC Upright Construction Method" (RCアップライト工法) commercially without authorization, or misrepresenting it in a manner that causes public confusion.
+
+### 3. Absolute Disclaimer of Warranties and Limitation of Liability
+1. The Data is provided solely to present the "design philosophy (concept)" based on ideas originated in 2005. The Licensor does not warrant compliance with current Japanese laws, the Building Standards Act, structural review criteria, or any foreign regulations.
+2. The Licensor shall assume no legal liability or financial responsibility for any architectural disputes, accidents, damages, structural failures, or any other disadvantages arising from the reference or use of the Data. Any real-world application or reconstruction of structural engineering shall be performed entirely at the user's sole risk and expense.
+
+---
+Copyright © 2026 ACE Comprehensive Consulting Co., Ltd. All Rights Reserved.
