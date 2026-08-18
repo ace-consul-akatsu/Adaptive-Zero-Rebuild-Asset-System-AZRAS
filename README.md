@@ -219,6 +219,16 @@ Individual technical inquiries and document requests cannot be accommodated. Ple
 
 🌐 **ウェブサイト：** [ace-consul-akatsu.github.io](https://ace-consul-akatsu.github.io)
 
+## AZRAS System ダウンロード
+
+**最新版：AZRAS System v1.0.0 — 初回正式公開版**
+
+➡️ [AZRAS System v1.0.0 をダウンロード](https://github.com/ace-consul-akatsu/Adaptive-Zero-Rebuild-Asset-System-AZRAS/releases/download/v1.0.0/AZRAS_System_v1.0.0.zip)
+
+AZRAS Planning Basic、Compare、Evaluation、Feasibility、Disaster、Professional、Twin、Installer、および比較評価用サンプルプロジェクトを収録しています。
+
+リリースの詳細は [AZRAS System v1.0.0 Release](https://github.com/ace-consul-akatsu/Adaptive-Zero-Rebuild-Asset-System-AZRAS/releases/tag/v1.0.0) をご覧ください。
+
 ---
 
 ## ビジョン — 4次元対応建築というコンセプト
