@@ -9,6 +9,16 @@
 
 🌐 **Website:** [ace-consul-akatsu.github.io](https://ace-consul-akatsu.github.io)
 
+## Download AZRAS System
+
+**Latest Release: AZRAS System v1.0.0 — Initial Public Release**
+
+➡️ [Download AZRAS System v1.0.0](https://github.com/ace-consul-akatsu/Adaptive-Zero-Rebuild-Asset-System-AZRAS/releases/download/v1.0.0/AZRAS_System_v1.0.0.zip)
+
+Includes AZRAS Planning Basic, Compare, Evaluation, Feasibility, Disaster, Professional, Twin, Installer, and sample projects.
+
+For release details, see the [AZRAS System v1.0.0 Release](https://github.com/ace-consul-akatsu/Adaptive-Zero-Rebuild-Asset-System-AZRAS/releases/tag/v1.0.0).
+
 ---
 
 ## Vision — The 4D Architecture Concept
